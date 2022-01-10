@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kav1323@hotmail.com
+	name = Kavitha Appulingam
